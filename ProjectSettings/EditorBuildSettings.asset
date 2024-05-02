@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/anaGiris.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GirisToplama.unity
+    guid: a0ea7f7ba67f8e04c83a6b5ceb62fd45
+  - enabled: 1
+    path: Assets/Scenes/GirisCikarma.unity
+    guid: b354505613abdc74cbbe10659a10c6a6
+  - enabled: 1
+    path: Assets/Scenes/GirisCarpma.unity
+    guid: fd58b9d20d1232847a533504cd6199c0
+  - enabled: 1
+    path: Assets/Scenes/GirisBolme.unity
+    guid: d1d36460f1c5bf34c8dcddd117a76b18
+  - enabled: 1
+    path: Assets/Scenes/islemToplama.unity
+    guid: 9548f8f53956e6641a09074131cb78c4
+  - enabled: 1
+    path: Assets/Scenes/islemCikarma.unity
+    guid: 43ab624ef5bf1a046a86a638e4f8023b
+  - enabled: 1
+    path: Assets/Scenes/islemCarpma.unity
+    guid: 0141cc489e20abe49bca7794ff681c34
+  - enabled: 1
+    path: Assets/Scenes/islemBolme.unity
+    guid: e2eb902c71ae74b4faebd74e3a89d2a8
+  m_configObjects: {}
