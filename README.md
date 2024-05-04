@@ -1,4 +1,5 @@
-# Unity ile 4 İşlem Uygulaması
+# Unity ile 4 İşlem  Uygulaması
+Verilen işlemleri çözerek hem öğrenme hem de eğlenceli vakit geçirme uygulaması.
 - Toplama, Çıkarma, Çarpma, Bölme
 
 ![1](https://github.com/erdiirden/matematik_ogreniyorum/assets/113932351/cd9a04d7-c9a1-43e2-84e0-15aad63f45ac)
